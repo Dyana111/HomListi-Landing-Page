@@ -1,0 +1,328 @@
+.pe-6 {
+    padding-right: 8rem!important;
+}
+.bgc{
+    background-color: white;
+    padding: 15px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.active{
+    color: #07c298 !important;
+    border-bottom: 3px solid #07c298;
+}
+.nav-link{
+    color: black;
+    padding-bottom: 20px;
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 20px;
+}
+.navbar-expand-lg{
+    --bs-navbar-nav-link-padding-x: 1rem;
+
+}
+
+.nav-icon1{
+    margin-left: 83px;
+    margin-top: -1px;
+    height: 35px;
+    width: 35px;
+    border: 1.5px solid #dceeea;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 4px;
+    color: #07c298 !important;
+}
+
+.nav-icon2{
+    margin-left: 27px;
+    height: 35px;
+    width: 35px;
+    border: 1.5px solid #dceeea;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #07c298 !important;
+    
+}
+
+.nav-icon3{
+    margin-left: 24px;
+    margin-top: -2px;
+    height: 45px;
+    width: 180px;
+    background-color: #07c298;
+    border-radius: 35px;
+}
+
+
+.button-text{
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: -18px;
+    text-align: center;
+    padding-left: 30px;
+
+}
+.a_btn {
+    color: white;
+    text-decoration: none;
+   
+}
+
+.border-end {
+    border-right: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important;
+    padding-right: 8px;
+    padding-top: 0;
+    /* display: flex; */
+    padding-bottom: 23px;
+    
+}
+
+.nav-icon3:hover{
+    color: white;
+    background-color: #00a47e;
+
+}
+
+
+.a_btn:hover{
+    color: white;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.banner-1{
+    background-color: white;
+    margin-left: 375px;
+    margin-top: 50px;
+}
+.banner_title{
+    font-size: 30px;
+    color: #212121;
+    line-height: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    
+}
+
+
+.search-box{
+    width: 320px;
+    height: 50px;
+    color: #878c9f;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 15px;
+    /* border: none; */
+    line-height: 1.5;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 3px;
+}
+
+
+.submit-button{
+    border: none;
+    background-color: #07c298;
+    color: #ffffff;
+    padding: 17px 26px 18px;
+    font-weight: 800;
+    position: relative;
+    transition: all 0.3s ease-in-out;
+    z-index: 2;
+    border-radius: 4px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+}
+.submit-button:hover{
+    background-color: #00a47e;
+}
+.search-btn button {
+    padding: 0 35px;
+    transition: 0.4s;
+    border-radius: 4px;
+    height: 48px;
+}
+
+.reset-btn {
+    background: none;
+    border: 2px solid #07c298;
+    color: #07c298;
+    padding: 0;
+}
+
+.reset-btn:hover{
+    background-color: #07c298;
+    color: white;
+}
+.mt-6{
+    margin-top: 90px;
+}
+.section-title-wrapper {
+    position: relative;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.bg-title-wrap {
+    top: -31px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.background-title {
+    display: inline-block;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 150px;
+    line-height: 130px;
+    color: #dceeea;
+    pointer-events: none;
+    word-break: break-all;
+}
+.subtitle-warp{
+    text-align: center;
+    display: inline-block;
+}
+.title-inner-wrapper {
+    position: relative;
+    z-index: 2;
+    margin-top: -90px;
+}
+
+
+.top-sub-title {
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #07c298;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+}
+
+.main-title {
+    font-size: 32px;
+    color: #212121;
+    font-weight: 600;
+    line-height: 1.2;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+}
+
+.slider_1{
+    height: 380px;
+    width: 380px;
+}
+
+.viewpb{
+    border: none;
+    background-color: #dceeea;
+    color: #07c298;
+    padding: 17px 40px 17px 40px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: 'Roboto' , sans-serif;
+    line-height: 1;
+    text-align: center;
+}
+
+.viewpb:hover{
+    background-color: #07c298;
+    color:white;
+}
+.pt-6 {
+    padding-top: 7rem!important;
+}
+.title-inner-wrapper2 {
+    position: relative;
+    z-index: 2;
+    margin-top: -119px;
+}
+.people_icon{
+    background-color: white;
+    height: 110px;
+    width: 110px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 110px;
+    margin: 0 auto;
+}
+.info_title{
+    font-size: 22px;
+    font-weight: 500;
+    color: #212121;
+    margin-bottom: 15px;
+    line-height: 32px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+}
+.info_p{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #70778B;
+    font-size: 16px;
+    line-height: 1.6em;
+
+}
+
+.ppl_img{
+    margin-top: -87px;
+    padding-left: 133px;
+}
+.lastL{
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bg-title-wrap2 {
+    
+    width: 100%;
+    margin-top: -36px;
+}
+.background-title2 {
+    display: inline-block;
+    font-family: 'Comforter Brush', sans-serif;
+    font-size: 100px;
+    line-height: 130px;
+    color: #dceeea;
+    pointer-events: none;
+    word-break: break-all;
+}
+.title-inner-wrapper2 {
+    position: relative;
+    z-index: 2;
+}
+.top-sub-title-wrap {
+    display: inline-block;
+}
+.top-sub-title2 {
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #00c194;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+}
+
+
+
